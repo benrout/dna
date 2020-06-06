@@ -1,5 +1,5 @@
 # dna
-A program that identifies a person based on their DNA using [Short Tandem Repeats (STRs)](https://en.wikipedia.org/wiki/STR_analysis).
+A program that identifies a person based on their DNA by analysing [Short Tandem Repeats (STRs)](https://en.wikipedia.org/wiki/STR_analysis).
 
 Example usage:
 ```
