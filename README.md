@@ -7,7 +7,7 @@ $ python dna.py databases/large.csv sequences/5.txt
 Lavender
 ```
 
-## STRs
+## Short Tandem Repeats (STRs)
 
 An STR is a short sequence of DNA bases that tends to repeat consecutively numerous times at specific locations inside of a person’s DNA. The number of times any particular STR repeats varies a lot among individuals.
 
